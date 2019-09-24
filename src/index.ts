@@ -72,10 +72,6 @@ const addBlock = (candidateBlock: Block) : void => {
     }
 }
 
-// console.log(createNewBlock("hello"), "\n");
-// console.log(createNewBlock("byebye"), "\n");
-// console.log(blockchain);
-
 createNewBlock("second block");
 createNewBlock("thrid block");
 createNewBlock("fourth block");
